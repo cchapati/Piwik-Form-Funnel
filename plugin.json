@@ -1,0 +1,18 @@
+{
+ "name": "Form Funnel",
+ "version": "0.0.1",
+ "description": "Create form funnels in the Piwik Analytics environment.",
+ "keywords": ["form", "funnel"],
+ "theme": false,
+ "donate": {
+     "paypal": "tim@fruit-lab.de"
+ },
+ "license": "GPL-3.0+",
+ "authors": [
+     {
+         "name": "Tim Lochmüller",
+         "email": "webmaster@fruit-lab.de",
+         "homepage": "http://www.fruit-lab.de"
+     }
+ ]
+}
