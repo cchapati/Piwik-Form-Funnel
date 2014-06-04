@@ -1,8 +1,8 @@
 {
- "name": "Form Funnel",
+ "name": "FormFunnel",
  "version": "0.0.1",
- "description": "Create form funnels in the Piwik Analytics environment.",
- "keywords": ["form", "funnel"],
+ "description": "Create form funnels in the Piwik Analytics environment. Connect different goals to create a new funnel.",
+ "keywords": ["form", "funnel", "goal"],
  "theme": false,
  "donate": {
      "paypal": "tim@fruit-lab.de"
